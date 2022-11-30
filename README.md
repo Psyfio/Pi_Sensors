@@ -1,6 +1,6 @@
 # Pi_Sensors
 
-This is a Python script for displaying ambient Temperature, ambient Humidity and SoC Temperature on a small OLED screen
+This is a Python script for displaying ambient Temperature, ambient Humidity and SoC Temperature on a small OLED screen /n
 Hardware used is Sparkfun's BME280 Qwiic sensor and the Micro OLED Breakout board
 
 This has been tested on the Raspberry Pi 3B+
